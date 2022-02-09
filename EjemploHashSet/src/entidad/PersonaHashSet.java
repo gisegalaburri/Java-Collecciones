@@ -2,7 +2,7 @@
 package entidad;
 
 import java.util.Objects;
-
+// NUEVO COMENTARIO
 
 public class PersonaHashSet  {
     //DECLARO LOS ATRIBUTOS
